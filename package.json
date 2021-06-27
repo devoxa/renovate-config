@@ -1,0 +1,19 @@
+{
+  "name": "@devoxa/renovate-config",
+  "description": "The shareable configuration for Renovate used in all Devoxa projects",
+  "version": "1.0.0",
+  "private": "true",
+  "license": "MIT",
+  "repository": {
+    "url": "https://github.com/devoxa/renovate-config"
+  },
+  "scripts": {
+    "format": "prettier --ignore-path='.gitignore' --list-different --write .",
+    "format:check": "prettier --ignore-path='.gitignore' --check ."
+  },
+  "prettier": "@devoxa/prettier-config",
+  "devDependencies": {
+    "@devoxa/prettier-config": "^1.0.0",
+    "prettier": "^2.2.1"
+  }
+}
