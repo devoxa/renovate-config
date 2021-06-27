@@ -13,7 +13,7 @@
   },
   "prettier": "@devoxa/prettier-config",
   "devDependencies": {
-    "@devoxa/prettier-config": "^1.0.0",
-    "prettier": "^2.2.1"
+    "@devoxa/prettier-config": "1.0.0",
+    "prettier": "2.3.1"
   }
 }
