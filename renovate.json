@@ -3,7 +3,7 @@
 
   "extends": ["config:base", ":rebaseStalePrs", ":prHourlyLimit4", ":labels(dependencies)"],
 
-  "commitMessageExtra": "from {{{currentValue}}} to {{{newValue}}}",
+  "commitMessageExtra": "from {{{currentVersion}}} to {{{newVersion}}}",
 
   "hostRules": [
     {
