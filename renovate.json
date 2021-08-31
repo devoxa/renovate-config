@@ -5,6 +5,8 @@
 
   "commitMessageExtra": "from {{{currentVersion}}} to {{{newVersion}}}",
 
+  "dependencyDashboard": false,
+
   "hostRules": [
     {
       "matchHost": "registry.npmjs.org",
