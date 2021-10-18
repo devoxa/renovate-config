@@ -5,7 +5,7 @@
 
   "commitMessageExtra": "from {{{currentVersion}}} to {{{newVersion}}}",
 
-  "dependencyDashboard": false,
+  "dependencyDashboard": true,
 
   "hostRules": [
     {
