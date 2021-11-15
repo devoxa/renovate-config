@@ -9,6 +9,7 @@
 
   "hostRules": [
     {
+      "hostType": "npm",
       "matchHost": "registry.npmjs.org",
       "encrypted": {
         "token": "SvaO1yukcfZ7M/tyBBfvuTcsNtyQExg1A6ILbcipqChJJgNRXc19NCv3b9USAVdCkyUQzmwrnDDsTXBApgjTXgPgubdONweGPeJTJlqhR6jBe8xxPT8Pu9GIZLYyCJsTLNSnZG0CeCjUIs3fPo0psI+GqbN816+GKO2ufR6v0VeiKNKuvuH+PCG5BPufW8zfepCru+nz9llt+tg+F6C+41HfE/Ec9hTXebKRJpWHYFZ6RM+XeOws25IhozI9HOqO6ILDHjt8qi5ncvCjuSZl8plsz83a1Dda3FPHM58Yqc17BJ9293ZUlafLSclKQC/5YMY1T7FPj8TVI8wnamwZ+Q=="
