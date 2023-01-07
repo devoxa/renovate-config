@@ -1,7 +1,7 @@
 {
   "$schema": "https://docs.renovatebot.com/renovate-schema.json",
 
-  "extends": ["config:base", ":rebaseStalePrs", ":prHourlyLimit4", ":labels(dependencies)"],
+  "extends": ["config:base", ":rebaseStalePrs", ":prHourlyLimit4", ":labels(dependencies)", ":pinAllExceptPeerDependencies"],
 
   "commitMessageExtra": "from {{{currentVersion}}} to {{{newVersion}}}",
 
