@@ -3,14 +3,13 @@
 
   "extends": [
     "config:base",
-    ":rebaseStalePrs",
     ":prHourlyLimit4",
     ":labels(dependencies)",
     ":pinAllExceptPeerDependencies"
   ],
 
   "commitMessageExtra": "from {{{currentVersion}}} to {{{newVersion}}}",
-
+  "rebaseWhen": "conflicted",
   "dependencyDashboard": true,
 
   "hostRules": [
