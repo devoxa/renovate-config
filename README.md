@@ -13,7 +13,7 @@
 <p align="center">
   <a href="https://github.com/devoxa/renovate-config/actions?query=branch%3Amaster+workflow%3A%22Continuous+Integration%22">
     <img
-      src="https://img.shields.io/github/workflow/status/devoxa/renovate-config/Continuous%20Integration?style=flat-square"
+      src="https://img.shields.io/github/actions/workflow/status/devoxa/renovate-config/push.yml?branch=master&style=flat-square"
       alt="Build Status"
     />
   </a>
