@@ -14,7 +14,7 @@
   "prettier": "@devoxa/prettier-config",
   "devDependencies": {
     "@devoxa/prettier-config": "2.0.2",
-    "prettier": "3.0.0",
+    "prettier": "3.0.1",
     "typescript": "5.1.6"
   },
   "volta": {
