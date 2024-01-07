@@ -26,6 +26,10 @@
     {
       "packageNames": ["node", "@types/node"],
       "enabled": false
+    },
+    {
+      "packageNames": ["nginx"],
+      "enabled": false
     }
   ]
 }
