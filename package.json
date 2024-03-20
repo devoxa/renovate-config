@@ -16,7 +16,7 @@
     "@devoxa/prettier-config": "2.0.2",
     "@types/node": "20.9.5",
     "prettier": "3.2.5",
-    "typescript": "5.4.2"
+    "typescript": "5.4.3"
   },
   "volta": {
     "node": "20.9.0"
