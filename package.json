@@ -13,7 +13,7 @@
   },
   "prettier": "@devoxa/prettier-config",
   "devDependencies": {
-    "@devoxa/prettier-config": "2.0.2",
+    "@devoxa/prettier-config": "2.0.3",
     "@types/node": "20.9.5",
     "prettier": "3.2.5",
     "typescript": "5.4.5"
