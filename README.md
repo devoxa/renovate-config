@@ -4,7 +4,7 @@
 </h1>
 
 <!-- Description -->
-<h4 align="center"> 
+<h4 align="center">
   The <a href="https://docs.renovatebot.com/config-presets/">shareable configuration</a>
   for <a href="https://www.whitesourcesoftware.com/free-developer-tools/renovate/">Renovate</a> used in all Devoxa projects
 </h4>
